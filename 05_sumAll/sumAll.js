@@ -14,7 +14,7 @@ const sumAll = function (min, max) {
   return sum;
 };
 
-sumAll(1, 4);
+sumAll(10, [90, 1]);
 
 // Do not edit below this line
 module.exports = sumAll;
